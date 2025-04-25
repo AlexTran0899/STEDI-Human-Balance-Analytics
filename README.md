@@ -15,7 +15,7 @@
 
 
 Looking at the expected result for machine_learning_curated, its appeared to be incorrect.
-By only joining accelerometer data with trainer data on timestamp, this will yield the 'coorect' result
-However I firmly believe that we would get a more acurate data by also ensuring that the serial number matches up between accelerometer and step trainer data.
+By only joining accelerometer data with trainer data on timestamp, this will yield the 'correct' result
+. However I firmly believe that we would get a more acurate data by also ensuring that the serial number matches up between accelerometer and step trainer data.
 
 
